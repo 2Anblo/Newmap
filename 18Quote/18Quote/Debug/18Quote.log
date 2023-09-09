@@ -1,0 +1,3 @@
+﻿  quote.cpp
+F:\code1\DAY1\Newmap\18Quote\18Quote\quote.cpp(21): warning C4172: 返回局部变量或临时变量的地址: a
+  18Quote.vcxproj -> F:\code1\DAY1\Newmap\18Quote\Debug\18Quote.exe
